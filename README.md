@@ -1,7 +1,11 @@
 # bigpod
 trying to port the ipod to python
 ## this is a work in progress, will have 0 activity for(ever hopefully not) a long ass time.
+head over to releases, it's raw python.
 
+# NO ROM! Provide your own, I'm sorry. I don't want the ghost of Steve Jobs rolling up on my block like King Von trying to get me to delete this repo. I'm here to code, not here for a DMCA claim and a lawsuit. I don't want Tim Apple abducting me to his basement then throwing hands with me.
+
+Put rom.bin in the /cache folder, feel free to mod this to your content. You have a ram.bin file for RAM. Thank 7-zip for the insane compression. Run emulator.py for it to work.
 ------------------
 ## For the NERDS
 
