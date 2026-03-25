@@ -15,3 +15,4 @@ also, in later builds, there is a config class for you to play around with, with
 ------------------
 build progress so far:
 12:27AM 26-03-2026, Proof Of Concept Build V1.0.0 Published! It Shows The CPU Idling. May Cause Lag!
+01:08AM 26-03-2026, Proof Of Concept BUG BUILD! Only for debuggers! Can't figure out LCD printing...
